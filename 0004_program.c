@@ -7,7 +7,6 @@
 //
 ///////////////////////////////////////////////////////
 
-
 #include<stdio.h>
 
 float CalculatePercentage(int iTotalMarks, int iObtainedMarks)
