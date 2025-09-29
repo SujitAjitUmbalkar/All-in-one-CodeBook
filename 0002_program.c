@@ -1,11 +1,12 @@
 ///////////////////////////////////////////////////////
 //
-//  File name :     program2.c
+//  File name :     0002_program.c
 //  Descreption :   Used to calculate percentage
-//  Author :        Piyush Manohar Khairnar
+//  Author :        Sujit Ajit Umbalkar
 //  Date :          28/04/2025
 //
 ///////////////////////////////////////////////////////
+
 
 #include<stdio.h>
 
