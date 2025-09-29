@@ -1,37 +1,58 @@
 ///////////////////////////////////////////////////////
 //
-//  File name :     program2.c
+//  File name :     0005_program.c
 //  Descreption :   Used to calculate percentage
-//  Author :        Piyush Manohar Khairnar
+//  Author :        Sujit Ajit Umbalkar
 //  Date :          28/04/2025
 //
 ///////////////////////////////////////////////////////
 
+
 #include<stdio.h>
 
-float CalculatePercentage(int iTotalMarks, int iObtainedMarks)
+float checkPercentage(int Total , int Obtained)
 {
-    float fPercentageValue = 0.0f;
-    fPercentageValue = ((float)iObtainedMarks / (float)iTotalMarks) * 100;
-    return fPercentageValue;
+    float fRet = 0.0f;
+
+    fRet = ((float)Obtained / (float) Total) * 100;
+
+    return fRet;
 }
 
 int main()
 {
-    int iTotal = 0;
     int iObtained = 0;
-    float fPercentage = 0.0f;
+    int iTotal = 0;
 
-    printf("Enter your total marks : \n");
-    scanf("%d",&iTotal);
+    do
+    {
+        printf("Enter total marks : [should be > 0 ]\n");
+        scanf("%d",&iTotal);
 
-    printf("Enter your obtained marks : \n");
-    scanf("%d",&iObtained);
+        if(iTotal <= 0)
+        {
+            printf("Invalid Total marks , Please enter valid marks : \n");
+        }
+    }while(iTotal <= 0);
 
-    //fPercentage = ((float)iObtained / (float)iTotal) * 100;
-    fPercentage = CalculatePercentage(iTotal,iObtained);
+    do 
+    {
+        printf("Enter obtained marks : [should be <= iTotal , should be > 0   ]\n");
+        scanf("%d",&iObtained);
 
-    printf("Percentage is : %.2f%%\n",fPercentage);
+        if(iObtained < 0    ||  iObtained > iTotal)
+        {
+            printf("Invalid Obtained marks , Please enter valid marks : \n");
+        }
+
+    }while(iObtained < 0 || iObtained > iTotal);
     
+    // calling function 
+    float fAns = checkPercentage(iTotal, iObtained);
+
+    printf("percenatage is : %f\t",fAns);
+
     return 0;
+
+
 }
