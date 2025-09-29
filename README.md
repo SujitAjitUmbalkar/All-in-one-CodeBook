@@ -32,6 +32,11 @@ This repository is designed to:
 
 ---
 
+▶️ index : 
+
+1]   0001 - 0005 = To Calculate Percentage
+
+
 ▶️ **How to Run Programs**
 
 **C**
