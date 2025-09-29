@@ -2,7 +2,7 @@
 //
 //  File name :     program2.c
 //  Descreption :   Used to calculate percentage
-//  Author :        Piyush Manohar Khairnar
+//  Author :        Sujit Ajit Umbalkar
 //  Date :          28/04/2025
 //
 ///////////////////////////////////////////////////////
