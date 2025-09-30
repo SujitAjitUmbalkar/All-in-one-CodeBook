@@ -37,6 +37,8 @@ This repository is designed to:
 1]   0001 - 0005 = To Calculate Percentage
 <br>
 2]   0006 - 0009 = Problems to use if-else 
+<br>
+3]   0010 - 0017 = Basic for loop operations 
 
 
 ▶️ **How to Run Programs**
