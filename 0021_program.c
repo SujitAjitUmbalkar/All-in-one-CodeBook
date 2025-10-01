@@ -6,7 +6,6 @@ bool CheckEven(int iNo)
     return ((iNo % 2) == 0);
 }
 
-
 int main()
 {
     int iValue = 0;
