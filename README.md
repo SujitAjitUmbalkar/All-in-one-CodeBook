@@ -42,7 +42,9 @@ This repository is designed to:
 <br> 
 4]   0019 - 0023 = Find even or odd , check divisible by ..
 <br>
-5]  0024 - 0029  = print counters , sum upto n numbers , Find Factorials
+5]  0024 - 0025  = print counters , sum upto n numbers 
+<br>
+6]  0026 - 0032 = Find Factorial 
 
 ▶️ **How to Run Programs**
 
