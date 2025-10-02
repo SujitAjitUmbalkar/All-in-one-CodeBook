@@ -39,7 +39,10 @@ This repository is designed to:
 2]   0006 - 0009 = Problems to use if-else 
 <br>
 3]   0010 - 0018 = Basic for loop operations 
-
+<br> 
+4]   0019 - 0023 = Find even or odd , check divisible by ..
+<br>
+5]  0024 - 0029  = print counters , sum upto n numbers , Find Factorials
 
 ▶️ **How to Run Programs**
 
