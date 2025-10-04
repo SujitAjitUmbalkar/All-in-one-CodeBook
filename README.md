@@ -44,7 +44,7 @@ This repository is designed to:
 <br>
 5]  0024 - 0025  = print counters , sum upto n numbers 
 <br>
-6]  0026 - 0032 = Find Factorial 
+6]  0026 - 0044 = Find Factorial , Check Perfect number , Prime Number 
 
 ▶️ **How to Run Programs**
 
