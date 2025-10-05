@@ -6,6 +6,10 @@ It starts from **basic programming concepts** like syntax, loops, and functions,
 This project is my **personal coding journal** — a way to document my learning, practice problem-solving, and build a strong foundation in **DSA and logic building**.  
 Many problems are written in multiple steps to show how a solution evolves (**basic → optimized → edge cases**).  
 
+⚠️ Before you start compiling Java programs, make sure to check out [**JAVA_INSTRUCTIONS.md**](./JAVA_INSTRUCTIONS.md) 
+— it explains how to compile and run the files correctly!
+
+
 ---
 
 📚 **Topics Covered**  
