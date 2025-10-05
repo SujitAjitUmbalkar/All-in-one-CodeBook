@@ -27,6 +27,7 @@ class program_0058
 
         Scanner sobj = new Scanner(System.in);
 
+        
         System.out.println("Enter first number : ");
         iValue1 = sobj.nextInt();
 
