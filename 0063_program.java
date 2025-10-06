@@ -17,6 +17,7 @@ class Number
     }
 }
 
+
 class program_0063
 {
     public static void main(String A[])
