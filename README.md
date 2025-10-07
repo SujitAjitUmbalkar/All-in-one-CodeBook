@@ -48,9 +48,13 @@ This repository is designed to:
 <br>
 5]  0024 - 0025  = print counters , sum upto n numbers 
 <br>
-6]  0026 - 0044 = Find Factorial , Check Perfect number , Prime Number 
+6]  0026 - 0044 = Find Factorial , Check Perfect number , Prime Number , Factors of Number
 <br>
 7]  0045 - 0050 = Problems on Digits 
+<br>
+8]  0051 - 0058 = Basics of java 
+<br>
+9]   0059 - 0069 = Problems on Factors 
 
 ▶️ **How to Run Programs**
 
