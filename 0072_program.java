@@ -38,5 +38,7 @@ class program_0072
         int iRet = dobj.CountEven(iValue);
 
         System.out.println("Number of even digits are : "+iRet);
+
+        sobj.close();
     }
 }
