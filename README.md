@@ -3,7 +3,6 @@
 This repository contains **C, C++, Java, and Python programs** organized in a **step-by-step sequence**.  
 It starts from **basic programming concepts** like syntax, loops, and functions, and gradually moves to **advanced topics** such as data structures, algorithms, and multithreading.  
 
-
 This project is my **personal coding journal** — a way to document my learning, practice problem-solving, and build a strong foundation in **DSA and logic building**.  
 Many problems are written in multiple steps to show how a solution evolves (**basic → optimized → edge cases**).  
 
