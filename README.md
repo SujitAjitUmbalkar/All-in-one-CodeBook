@@ -9,6 +9,7 @@ Many problems are written in multiple steps to show how a solution evolves (**ba
 
 ⚠️ Before you start compiling Java programs, make sure to check out [**JAVA_INSTRUCTIONS.md**](./JAVA_INSTRUCTIONS.md) 
 — it explains how to compile and run the files correctly!
+
 ---
 
 📚 **Topics Covered**  
