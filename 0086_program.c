@@ -8,7 +8,6 @@
 // Output : z   z   z
 
 #include<stdio.h>
-
 void Display(int iNo, char ch)
 {
     int iCnt = 0;
