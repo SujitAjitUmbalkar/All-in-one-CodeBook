@@ -1,7 +1,6 @@
 // Input : 4
 // Output : 4   *   3   *   2   *   1   *
 
-
 #include<stdio.h>
 
 void Display(int iNo)
