@@ -9,7 +9,6 @@
 */
 
 import java.util.*;
-
 class Pattern
 {
     public void Display(int iRow, int iCol)
