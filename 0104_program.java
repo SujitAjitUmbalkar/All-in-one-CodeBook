@@ -1,10 +1,10 @@
 // Input 4  4   
 /*
 
-    *   *   *   *
-    o   o   o   o
-    o   o   o   o
-    *   *   *   *
+*       o       o       *
+*       o       o       *
+*       o       o       *
+*       o       o       *
     
 */
 
