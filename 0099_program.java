@@ -6,6 +6,7 @@
     D   D   D   D
 */
 
+
 import java.util.*;
 
 class Pattern
