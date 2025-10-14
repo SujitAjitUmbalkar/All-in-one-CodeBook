@@ -7,7 +7,6 @@ o       *       *       *
 *       *       *       *
     
 */
-
 import java.util.*;
 
 class Pattern
