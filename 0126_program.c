@@ -18,6 +18,7 @@ int main()
     int iLength = 0, iCnt = 0;
     int *ptr = NULL;
 
+    
     printf("Enter the number of elements : \n");
     scanf("%d",&iLength);
 
