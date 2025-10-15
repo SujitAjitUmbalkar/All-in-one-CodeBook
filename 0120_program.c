@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 
 void Display(int *ptr, int iSize)
@@ -9,6 +10,13 @@ void Display(int *ptr, int iSize)
     printf("%d\n",ptr[2]);
     printf("%d\n",ptr[3]);
     printf("%d\n",ptr[4]);
+
+    printf("Through Loop \n");
+
+     for(int iCnt1 = 0; iCnt1 < iSize; iCnt1++)
+    {
+        printf("%d\n",ptr[iCnt1]);
+    }
 }
 
 int main()
