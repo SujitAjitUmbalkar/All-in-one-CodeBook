@@ -15,6 +15,7 @@ int SumOdd(int Arr[], int iSize)
     return iSum;
 }
 
+
 int main()
 {
     int iLength = 0, iCnt = 0, iRet = 0;
