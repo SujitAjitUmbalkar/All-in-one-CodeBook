@@ -14,7 +14,6 @@ bool Search(int Arr[], int iSize)
         }
     }
 
-    
     if(iCnt == iSize)
     {
         return false;
