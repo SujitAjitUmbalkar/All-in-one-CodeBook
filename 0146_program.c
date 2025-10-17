@@ -13,6 +13,7 @@ bool CheckCapital(char ch)
     }
 }
 
+
 int main()
 {
     char cValue = '\0';
