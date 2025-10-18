@@ -1,5 +1,5 @@
-// Input : India
-// Output : IndiA
+// Input : InDiA
+// Output : I$D$A
 
 #include<stdio.h>
 
@@ -7,14 +7,13 @@ void Change(char *str)
 {    
     while(*str != '\0')
     {
-        if(*str == 'a')
+        if((*str >= 'a') && (*str <= 'z'))
         {
-            *str = 'A';
+            *str = '$';
         }
         str++;
     }
 }
-
 
 int main()
 {
