@@ -15,6 +15,7 @@ bool CheckCharacter(char *str, char ch)
     return (*str == ch);
 }
 
+
 int main()
 {
     char Arr[50] = {'\0'};
