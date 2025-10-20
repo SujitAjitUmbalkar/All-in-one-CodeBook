@@ -27,7 +27,7 @@ class MarvellousString
     }
 }
 
-class program_0212
+class program212
 {
     public static void main(String A[])
     {
@@ -43,7 +43,7 @@ class program_0212
         iRet = mobj.CountSmall();
 
         System.out.println("Number of small characters are : "+iRet);
-        
+    
         sobj.close();
     }
 }
