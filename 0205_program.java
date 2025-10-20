@@ -9,6 +9,7 @@ class program_0205
         System.out.println("Enter String : ");
         String name = sobj.nextLine();
 
+        
         System.out.println(name.charAt(0));
         System.out.println(name.charAt(1));
         System.out.println(name.charAt(2));
