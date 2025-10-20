@@ -26,7 +26,6 @@ class program_0215
         }
 
         Arr = null;
-        sobj = null;
 
         sobj.close();
     }
