@@ -9,6 +9,7 @@ class ArrayX
         System.out.println("Allocating the resources...");
         Arr = new int[iSize];       // Resource allocation
     }
+   
 
     protected void finalize()
     {
