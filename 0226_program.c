@@ -12,6 +12,7 @@ int main()
 
     fd = creat(Fname,0777);
 
-    
+
     return 0;
 }
+
