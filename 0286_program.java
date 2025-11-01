@@ -13,11 +13,12 @@ class Program
 
         iMask1 = iMask1 << (iPos1 - 1);
         iMask2 = iMask2 << (iPos2 - 1);
+
+        int iMask3 = iMask1 | iMask2; 
         
-        iMask1 = ~iMask1;
-        iMask2 = ~iMask2;
+        iMask3 = ~iMask3;
         
-        iResult = iNo & (iMask1 & iMask2);
+        iResult = iNo & iMask3;
 
         return iResult;
     }
