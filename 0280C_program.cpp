@@ -22,7 +22,8 @@ int main()
 
     if(iResult == iMask)
     {
-        printf("%d th Bit is OFF \n",iPos);
+        
+        printf("%d th Bit is ON \n",iPos);
     }
     else
     {
