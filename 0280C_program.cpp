@@ -18,6 +18,17 @@ int main()
 
     iMask = iMask << (iPos -1);
 
+    int iResult = iValue & iMask; 
+
+    if(iResult == iMask)
+    {
+        printf("%d th Bit is OFF \n",iPos);
+    }
+    else
+    {
+        printf("%d th Bit is Off \n",iPos);
+    }
+
     return 0;
 }
 
