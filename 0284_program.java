@@ -1,4 +1,6 @@
-// clear (OFF-> ON ) the 4th and 7th bits 
+
+
+// turn OFF (clear) the 4th bit and the 7th bit
 
 import java.util.Scanner;
 
