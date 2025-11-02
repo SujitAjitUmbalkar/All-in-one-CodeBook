@@ -162,6 +162,11 @@ class SinglyCLL
 
         void DeleteAtPos(int pos)
         {
+            PNODE temp = NULL;
+            PNODE target = NULL;
+            
+            int i = 0;
+            
             if(pos < 1 || pos > iCount)
             {
                 cout<<"Invalid position\n";
@@ -178,7 +183,19 @@ class SinglyCLL
             }
             else
             {
+                temp = first;
 
+                for(i = 1; i < pos-1; i++)
+                {
+                    temp = temp -> next;
+                }
+
+                target = temp -> next;
+
+                temp->next = target->next;
+                delete target;
+
+                iCount--;
             }
         }
 
@@ -246,6 +263,14 @@ int main()
 
     cout<<"Number of elements are : "<<iRet<<"\n";
 
+    sobj.DeleteAtPos(5);
+
+    sobj.Display();
+    
+    iRet = sobj.Count();
+
+    cout<<"Number of elements are : "<<iRet<<"\n";
+
     sobj.DeleteFirst();
 
     sobj.Display();
@@ -264,5 +289,3 @@ int main()
 
     return 0;
 }
-
-
