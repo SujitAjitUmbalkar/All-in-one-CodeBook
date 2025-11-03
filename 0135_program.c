@@ -19,7 +19,8 @@ bool Search(int Arr[], int iSize, int iNo)
         }
     }
 
-     return !(iCnt == iSize);
+     
+    return !(iCnt == iSize);           // return false if , iCnt == iSize 
 }
 
 int main()
