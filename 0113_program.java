@@ -26,13 +26,13 @@ class Pattern
         {
             for(j =  iCol ;j >= 1 ; j--)
             {
-                if(i>=j)
+                if(i<j)
                 {
-                    System.out.print("*\t");
+                    System.out.print("o\t");
                 }
                 else
                 {
-                    System.out.print("o\t");
+                    System.out.print("*\t");
                 }
             }
             System.out.println();
