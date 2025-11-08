@@ -22,3 +22,6 @@ int main()
     
     return 0;
 }
+
+
+// call by value = changes are applied temporarily (seen in that function only )
