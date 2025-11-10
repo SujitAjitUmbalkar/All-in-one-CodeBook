@@ -22,7 +22,7 @@ class StringX
     }
 }
 
-class program482
+class program483
 {
     public static void main(String A[])
     {
@@ -33,7 +33,7 @@ class program482
 
         StringX strobj = new StringX();
 
-        String sRet = strobj.Replace(str,' ','_');
+        String sRet = strobj.Replace(str,'a','A');
 
         System.out.println("Updated string is : "+sRet);
     }
