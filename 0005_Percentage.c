@@ -53,4 +53,3 @@ int main()
     printf("percenatage is : %f\t",fAns);
 
     return 0;
-
