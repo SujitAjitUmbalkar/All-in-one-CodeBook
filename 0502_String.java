@@ -80,3 +80,4 @@ class program502
         sobj.close();
     }
 }
+
