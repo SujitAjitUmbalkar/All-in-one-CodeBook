@@ -16,3 +16,11 @@ class program503
         sobj.close();
     }
 }
+
+
+/*
+// Strings in Java are immutable.
+// replaceAll() creates a new modified string and returns it.
+// We reassign it to 'str' to update the reference to the new string.
+
+ */
