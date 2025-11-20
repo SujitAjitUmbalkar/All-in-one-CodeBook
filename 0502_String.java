@@ -21,6 +21,10 @@ class Marvellous
             return false;
         }
 
+        // Convert both to lowercase
+        str1 = str1.toLowerCase();
+        str2 = str2.toLowerCase();
+
         char Arr[] = str1.toCharArray();        // 50
         char Brr[] = str2.toCharArray();        // 50
             
