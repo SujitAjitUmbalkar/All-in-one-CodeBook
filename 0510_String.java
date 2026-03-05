@@ -3,6 +3,8 @@
 // Aftre trim
 // India_ _ _ _is_ _my_country
 
+// output should be : India is my country
+
 import java.util.*;
 
 class program_510
