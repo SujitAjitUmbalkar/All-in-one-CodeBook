@@ -17,6 +17,7 @@ class program_0051
 }
 
 
+
 Also, since these classes are not public, they can’t be accessed from outside their files or packages. Normally, in larger Java projects, we organize everything inside packages to manage visibility and structure. But because these are small, standalone learning programs, I’ve skipped the concept of packages here to keep things simple and easy to understand 👨‍💻
 
 Now, since the file name and class name are different, you’ll need to remember two commands while running your code:
