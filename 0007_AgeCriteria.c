@@ -5,7 +5,7 @@
             If it is in between 5 to 18 then it will be 700
             It it is in betwween 18 to 50 it will be 999
             And if it is greater than 50 then it will be 500
-    Stop
+    Stop now
 */
 
 #include<stdio.h>
