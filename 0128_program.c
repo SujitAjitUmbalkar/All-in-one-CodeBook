@@ -41,10 +41,12 @@ int main()
     // Step 2 : Use that memory
     iRet = CountEven(ptr,iLength);
     
-    printf("Number of even elements are : %d\n",iRet);
+    printf("the Number of even elements are : %d\n",iRet);
 
     // Step 3 : Free the memory 
     free(ptr);
 
     return 0;
 }
+
+// dynamic memory allocation 
