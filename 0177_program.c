@@ -15,7 +15,6 @@ void Change(char *str)
     }
 }
 
-
 int main()
 {
     char Arr[50] = {'\0'};
