@@ -23,6 +23,9 @@ class Number
 }
 
 
+
+//
+
 class program_0064
 {
     public static void main(String A[])
