@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+#define ERR_INVALIDACCESS -2
+
+
 #define ERR_INVALID -1
 
 unsigned long Factorial(unsigned int iNo)
