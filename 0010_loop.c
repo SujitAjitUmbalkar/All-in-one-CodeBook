@@ -10,6 +10,8 @@ void Display()
     printf("Hello\n");
 }
 
+// main method
+
 int main()
 {
     Display();
