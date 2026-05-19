@@ -10,6 +10,7 @@ int main()
 {
     int iValue = 0;
     bool bRet = false;
+    int iRet = 0;
 
     printf("Enter number to check whether it is even or odd : \n");
     scanf("%d",&iValue);
