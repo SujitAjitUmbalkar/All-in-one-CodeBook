@@ -2,6 +2,7 @@
 // Output : -5 -4  -3  -2  -1  0   1   2   3   4  5
 
 #include<stdio.h>
+#include<stdlib.h>        // for dynamic memory 
 void Display(int iNo)
 {
     int iCnt = 0;
