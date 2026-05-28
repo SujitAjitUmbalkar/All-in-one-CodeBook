@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Arithematic
+class Arithematicx
 {
     public int Addition(int iNo1, int iNo2)
     {
@@ -24,7 +24,7 @@ class program_0057
         System.out.println("Enter second number : ");
         iValue2 = sobj.nextInt();
 
-        Arithematic aobj = new Arithematic();
+        Arithematicx aobj = new Arithematicx();
 
         iRet = aobj.Addition(iValue1, iValue2);
 
