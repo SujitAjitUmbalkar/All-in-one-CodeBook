@@ -18,7 +18,7 @@ int main()
 
     Percentage = ((float)Obtained / (float)Total) * 100;
 
-    printf("Percentage is : %.2f%%\n",Percentage);
+    printf("Percentage of given data  is : %.2f%%\n",Percentage);
 
     return 0;
 }
