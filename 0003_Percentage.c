@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////
 //
 //  File name :     0003_program.c
-//  Descreption :   Used to calculate percentage
+//  Description :   Used to calculate percentage
 //  Author :        Sujit Ajit Umbalkar
 //  Date :          28/04/2025
 //
