@@ -24,7 +24,7 @@ class Number
 
 
 
-//
+// main method must be inside class 
 
 class program_0064
 {
