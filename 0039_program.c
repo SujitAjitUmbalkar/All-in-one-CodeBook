@@ -45,5 +45,8 @@ int main()
         printf("%d is not a perfect number\n",iValue);
     }
 
-    return 0;
+    
+
+return 0;
+
 }
