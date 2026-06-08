@@ -48,6 +48,8 @@ class program_0095
 
         pobj.Display(iValue1, iValue2);
 
-        sobj.close();
+        
+
+sobj.close();
     }
 }
