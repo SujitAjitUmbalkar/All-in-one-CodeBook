@@ -8,6 +8,7 @@ int strlenX(char *str)
     {
         iCount++;
         str++;
+//counter
     }
 
     return iCount;
