@@ -30,7 +30,7 @@ int main()
     }
     else
     {
-        printf("%c is not capital\n",cValue);
+        printf("%c is not capital alphabet \n",cValue);
     }
     
     return 0;
