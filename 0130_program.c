@@ -46,5 +46,12 @@ int main()
     // Step 3 : Free the memory 
     free(ptr);
 
-    return 0;
+    
+
+
+
+
+
+
+return 0; // Termination 
 }
